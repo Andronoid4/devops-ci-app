@@ -1,0 +1,6 @@
+---
+app_image: ghcr.io/andronoid4/devops-ci-app
+app_tag: "eb933a6fb4019c7f4023a6cce4423daf0f6ec05c"
+app_container_name: devops-ci-app
+app_host_port: 5000
+app_internal_port: 5000
